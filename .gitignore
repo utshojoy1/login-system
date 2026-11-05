@@ -1,0 +1,13 @@
+node_modules/
+data/*.db
+data/*.db-shm
+data/*.db-wal
+data/*.db-journal
+.env
+.env.*
+!.env.example
+login-backup.db
+*.zip
+*.log
+.DS_Store
+README.md
